@@ -66,3 +66,16 @@
 .acht i {
     float: right;
 }
+.wt_li{
+    margin:20px;
+    border-radius: 5px;
+}
+.wt_li img{
+    height: 15%;
+    width: 300px;
+    border-radius: 25px;
+}
+#wtli2{
+    background-color: cornsilk;
+    color: saddlebrown;
+}
